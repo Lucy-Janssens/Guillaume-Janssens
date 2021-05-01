@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Guillaume-Janssens
+- 👀 I’m interested in AI and robotics
+- 🌱 I’m currently learning at EPITECH Brussels
+- 📫 How to reach me : Guillaume.janssens@epitech.eu
